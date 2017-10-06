@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
 import {
   View
 } from 'react-native';
@@ -6,7 +6,7 @@ import {
 import Image from 'react-native-transformable-image';
 import ViewPager from '@ldn0x7dc/react-native-view-pager';
 import {createResponder} from 'react-native-gesture-responder';
-
+import PropTypes from "prop-types";
 
 export default class Gallery extends Component {
 

@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/ldn0x7dc/react-native-gallery#readme",
   "dependencies": {
-    "@ldn0x7dc/react-native-view-pager": "0.0.9",
+    "@ldn0x7dc/react-native-view-pager": "https://github.com/PedroLourenco/react-native-view-pager/tarball/8baca3968acb2283071e3fce97bbde1fe8163f59",
     "prop-types": "^15.6.0",
     "react-native-gesture-responder": "0.1.1",
-    "react-native-transformable-image": "0.0.18"
+    "react-native-transformable-image": "https://github.com/PedroLourenco/react-native-transformable-image/tarball/5389ac3b84a2374589ba513f3080d5ada807a58d"
   }
 }
